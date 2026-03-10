@@ -91,7 +91,7 @@ This project is 100% Open Source. We welcome all contributions!
 
 Connect with me for more AI-driven solutions:
 - **GitHub:** [@msk0442](https://github.com/msk0442)
-- **LinkedIn:** [Muhammad Schees](https://linkedin.com/in/msk0442)
+- **LinkedIn:** [Muhammad Schees](https://www.linkedin.com/in/muhammadschees/)
 
 ---
 

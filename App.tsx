@@ -421,7 +421,7 @@ const App: React.FC = () => {
             <a href="https://github.com/msk0442" className="text-slate-500 hover:text-white transition-colors">
               <Github size={20} />
             </a>
-            <a href="https://linkedin.com/in/msk0442" className="text-slate-500 hover:text-white transition-colors">
+            <a href="https://www.linkedin.com/in/muhammadschees/" className="text-slate-500 hover:text-white transition-colors">
               <Linkedin size={20} />
             </a>
             <div className="w-px h-6 bg-white/10" />
